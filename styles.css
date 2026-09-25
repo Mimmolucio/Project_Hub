@@ -35,7 +35,7 @@ header {
     background-color: darkseagreen;
 }
 
-.darkLight {
+#darkLight {
     align-self: flex-start;
     border-radius: 8px;
     padding: 5px;
@@ -43,6 +43,7 @@ header {
     background-color: darkgreen;
     color: white;
 }
+
 
 #subtitle {
 
@@ -68,4 +69,9 @@ a:active {
 
 a:hover {
     color: darkslategray;
+}
+
+.darkMode {
+    background-color: darkolivegreen;
+    color: white;
 }
