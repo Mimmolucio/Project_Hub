@@ -44,6 +44,13 @@ header {
     color: white;
 }
 
+#darkLight:hover {
+    background-color: goldenrod;
+}
+
+#darkLight:active {
+    background-color: black;
+}
 
 #subtitle {
 
